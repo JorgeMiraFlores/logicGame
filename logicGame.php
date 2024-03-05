@@ -12,7 +12,7 @@
     
     ?>
 
-    <form action="procesarInfo.php" method="post">
+    <form action="procesarInfo.php" method="post" class="mb-3">
 
         <input type="text" name="palabra" require>
         <input type="submit" value="Resetear">
